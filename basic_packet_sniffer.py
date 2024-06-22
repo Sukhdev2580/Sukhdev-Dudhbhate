@@ -1,4 +1,4 @@
-# Basic Network Packet sniffer project by www.linkedin.in/in/yashlote
+# Basic Network Packet sniffer project by www.linkedin.in/in/sukhdevdudhbhate
 # This porject is a part of internship program by CodeAlpha
 
 import sys
